@@ -2,6 +2,7 @@
     width: 100%;object-fit: contain;
 }
 /*  */
+*{ margin:0;padding:0}
 .anh2{
     width: 36px;height: 36px;object-fit: cover;border-radius: 18px;vertical-align: top;object-position: ;
 }
